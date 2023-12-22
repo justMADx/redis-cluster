@@ -1,0 +1,15 @@
+D:\GitHub\redis-cluster\redis-cluster\bin\Debug\net6.0\redis-cluster.exe
+D:\GitHub\redis-cluster\redis-cluster\bin\Debug\net6.0\redis-cluster.deps.json
+D:\GitHub\redis-cluster\redis-cluster\bin\Debug\net6.0\redis-cluster.runtimeconfig.json
+D:\GitHub\redis-cluster\redis-cluster\bin\Debug\net6.0\redis-cluster.dll
+D:\GitHub\redis-cluster\redis-cluster\bin\Debug\net6.0\redis-cluster.pdb
+D:\GitHub\redis-cluster\redis-cluster\obj\Debug\net6.0\redis-cluster.csproj.AssemblyReference.cache
+D:\GitHub\redis-cluster\redis-cluster\obj\Debug\net6.0\redis-cluster.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\redis-cluster\redis-cluster\obj\Debug\net6.0\redis-cluster.AssemblyInfoInputs.cache
+D:\GitHub\redis-cluster\redis-cluster\obj\Debug\net6.0\redis-cluster.AssemblyInfo.cs
+D:\GitHub\redis-cluster\redis-cluster\obj\Debug\net6.0\redis-cluster.csproj.CoreCompileInputs.cache
+D:\GitHub\redis-cluster\redis-cluster\obj\Debug\net6.0\redis-cluster.dll
+D:\GitHub\redis-cluster\redis-cluster\obj\Debug\net6.0\refint\redis-cluster.dll
+D:\GitHub\redis-cluster\redis-cluster\obj\Debug\net6.0\redis-cluster.pdb
+D:\GitHub\redis-cluster\redis-cluster\obj\Debug\net6.0\redis-cluster.genruntimeconfig.cache
+D:\GitHub\redis-cluster\redis-cluster\obj\Debug\net6.0\ref\redis-cluster.dll

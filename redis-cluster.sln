@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redis-cluster", "redis-cluster\redis-cluster.csproj", "{458F536D-F6C2-459A-8332-AAA578D475A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DA39366F-9A52-427F-A154-2142528BB56F}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{458F536D-F6C2-459A-8332-AAA578D475A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458F536D-F6C2-459A-8332-AAA578D475A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458F536D-F6C2-459A-8332-AAA578D475A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458F536D-F6C2-459A-8332-AAA578D475A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
